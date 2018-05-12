@@ -1,0 +1,26 @@
+_repo: Roumania-Past-and-Present_18240
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Samuelson, James
+    birthdate: 1829
+    gutenberg_agent_id: '7896'
+    url: http://www.gutenberg.org/2009/agents/7896
+description: ''
+gutenberg_issued: '2006-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Romania -- Description and travel'
+- !lcsh 'Romania -- History'
+title: Roumania Past and Present
+url: http://www.gutenberg.org/ebooks/18240
